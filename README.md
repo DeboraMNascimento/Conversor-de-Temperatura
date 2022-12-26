@@ -1,7 +1,8 @@
 # Conversor de Temperatura
-##Criado em uma Imersão Dev da Alura ✨
 
-Criado com:
+Criado em uma Imersão Dev da Alura ✨
+
+Feito com:
  - HTML
  - CSS
  - JavaScript
